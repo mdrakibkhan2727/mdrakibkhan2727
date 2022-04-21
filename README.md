@@ -5,7 +5,7 @@
 
 I'm Md Rakib Khan from Bangladesh, and I do content on Design and Development. I really enjoy learning languages and frameworks like Laravel,jquery,ajax,tailwind and Vue js, as well as work in WordPress. I also enjoy Bootstrap, Html, CSS, and design in general.
 
-Skills: VUE JS / LARAVEL / JS / HTML / CSS/TAILWIND CSS/JQUERY/
+Skills: VUE JS / LARAVEL / JS / HTML / CSS/TAILWIND CSS/JQUERY
 
 - 🔭 I’m currently working on ZamZamDigitalAgency 
 - 🌱 I’m currently learning Vue Js and Node Js 
