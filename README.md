@@ -13,7 +13,7 @@ Skills: VUE JS / LARAVEL / JS / HTML / CSS/TAILWIND CSS/JQUERY/
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: mdrakibkhan2727@gmail.com 
 
-`This website that i'm build`
+`This website that i build`
 - [Blumenit](https://blumenit.com/) 
 - [UtshabResort](https://utsabresort.com/) 
 
