@@ -1,7 +1,7 @@
 ![I am Full Stack Web Developer](https://media-exp1.licdn.com/dms/image/C5116AQF_KiQYjwKl4g/profile-displaybackgroundimage-shrink_350_1400/0/1534185867428?e=1651104000&v=beta&t=0MVf-E6QMHDRxwy_1JXhhKGt0yeey56gRirfjRfglSE)
 
 ### Hi there 👋, I'm Md Rakib Khan
-#### I am Full-Stack Software Engineer
+#### Full-Stack Software Engineer
 
 Hello, I am a Full-Stack Software Engineer focused on backend development. I have 2+ years of experience in Asp.net Core & Asp.net Core Web API. I have created different types of projects such as ERP, Ecommerce, Inventory etc.. . I'm a passionate, energetic and professional Developer..
 
