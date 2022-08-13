@@ -1,13 +1,13 @@
 ![I am Full Stack Web Developer](https://media-exp1.licdn.com/dms/image/C5116AQF_KiQYjwKl4g/profile-displaybackgroundimage-shrink_350_1400/0/1534185867428?e=1651104000&v=beta&t=0MVf-E6QMHDRxwy_1JXhhKGt0yeey56gRirfjRfglSE)
 
 ### Hi there 👋, I'm Md Rakib Khan
-#### I am Full Stack Web Developer
+#### I am Full-Stack Software Engineer
 
-I'm Md Rakib Khan from Bangladesh, and I do content on Design and Development. I really enjoy learning languages and frameworks like Laravel,jquery,ajax,tailwind and Vue js, as well as work in WordPress. I also enjoy Bootstrap, Html, CSS, and design in general.
+Hello, I am a Full-Stack Software Engineer focused on backend development. I have 2+ years of experience in Asp.net Core & Asp.net Core Web API. I have created different types of projects such as ERP, Ecommerce, Inventory etc.. . I'm a passionate, energetic and professional Developer..
 
-Skills: VUE JS / LARAVEL / JS / HTML / CSS/TAILWIND CSS/JQUERY
+Skills: VUE JS / Asp.net Core /Asp.net Core Web API/ JS / HTML / CSS/TAILWIND CSS/JQUERY
 
-- 🔭 I’m currently working on ZamZamDigitalAgency 
+- 🔭 I’m currently working on ZamZamDigitalLtd.
 - 🌱 I’m currently learning Vue Js and Node Js 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Development 
