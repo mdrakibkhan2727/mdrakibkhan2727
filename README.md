@@ -130,3 +130,9 @@ Skills:  Asp.net Core /Asp.net Core Web API/ Blazor/React JS/JS / HTML / CSS/Boo
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mdrakibkhan2727)  
 
 ![Profile views](https://gpvc.arturio.dev/mdrakibkhan2727)  
+
+<div align="center">
+	<a href="https://git.io/typing-svg">
+		<img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!" ></a>
+</div>
+
