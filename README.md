@@ -1,3 +1,7 @@
+<p>
+  <img align="left" alt="GIF" src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/code.gif?raw=true" width="100%" />
+</p>
+
 <h1 align="center">
 	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	Hi, Welcome to my profile!
@@ -31,9 +35,7 @@ Skills:  Asp.net Core /Asp.net Core Web API/ Blazor/React JS/JS / HTML / CSS/Boo
 
 
  
-<p>
-  <img align="left" alt="GIF" src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/code.gif?raw=true" width="100%" />
-</p>
+
 
 ## 🛠️ My Favorite Tools
 
