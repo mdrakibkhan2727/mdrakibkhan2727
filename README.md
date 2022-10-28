@@ -6,10 +6,10 @@
 	<img src="https://emoji.discord.st/emojis/dc5dc637-3062-4bb8-a984-93823e531596.gif" width="30">
 </h1>
 
-### Hi there 👋, I'm Md Rakib Khan
+
 #### Full-Stack Software Engineer
 
-Hello, I am a Full-Stack Software Engineer focused on backend development. I have 2+ years of experience in Asp.net Core & Asp.net Core Web API. I have created different types of projects such as ERP, Ecommerce, Inventory,Blog etc.. . I'm a passionate, energetic and professional Developer..
+``` Hi there 👋, I'm Md Rakib Khan, I'm a Full-Stack Software Engineer focused on backend development. I have 2+ years of experience in Asp.net Core & Asp.net Core Web API. I have created different types of projects such as ERP, Ecommerce, Inventory,Blog etc.. . I'm a passionate, energetic and professional Developer..
 
 Skills:  Asp.net Core /Asp.net Core Web API/ Blazor/React JS/JS / HTML / CSS/Bootstrap/TAILWIND CSS/JQUERY
 
