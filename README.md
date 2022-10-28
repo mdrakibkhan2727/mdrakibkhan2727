@@ -26,7 +26,7 @@ Skills:  Asp.net Core /Asp.net Core Web API/ Blazor/React JS/JS / HTML / CSS/Boo
 
 [![Top Langs](https://github.com/mdrakibkhan2727?tab=repositories)](https://github.com/mdrakibkhan2727?tab=repositories)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdrakibkhan2727&show_icons=true&count_private=true)  
+![GitHub stats](https://github.com/mdrakibkhan2727?tab=stars)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mdrakibkhan2727)  
 
