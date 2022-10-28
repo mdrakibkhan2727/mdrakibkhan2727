@@ -1,5 +1,5 @@
 <p>
-  <img align="left" alt="GIF" src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/code.gif?raw=true" width="100%" />
+  <img align="left" alt="GIF" src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/code.gif?raw=true" width="100px" />
 </p>
 <h1 align="center">
 	 
