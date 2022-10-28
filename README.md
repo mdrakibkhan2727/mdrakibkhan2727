@@ -3,12 +3,12 @@
 ### Hi there 👋, I'm Md Rakib Khan
 #### Full-Stack Software Engineer
 
-Hello, I am a Full-Stack Software Engineer focused on backend development. I have 2+ years of experience in Asp.net Core & Asp.net Core Web API. I have created different types of projects such as ERP, Ecommerce, Inventory etc.. . I'm a passionate, energetic and professional Developer..
+Hello, I am a Full-Stack Software Engineer focused on backend development. I have 2+ years of experience in Asp.net Core & Asp.net Core Web API. I have created different types of projects such as ERP, Ecommerce, Inventory,Blog etc.. . I'm a passionate, energetic and professional Developer..
 
-Skills: VUE JS / Asp.net Core /Asp.net Core Web API/ JS / HTML / CSS/TAILWIND CSS/JQUERY
+Skills:  Asp.net Core /Asp.net Core Web API/ Blazor/React JS/JS / HTML / CSS/Bootstrap/TAILWIND CSS/JQUERY
 
-- 🔭 I’m currently working on ZamZamDigitalLtd.
-- 🌱 I’m currently learning Vue Js and Node Js 
+- 🔭 I’m currently working on Linosa Software, USA.
+- 🌱 I’m currently learning React Js and Node Js 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: mdrakibkhan2727@gmail.com 
