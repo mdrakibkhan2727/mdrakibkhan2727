@@ -41,7 +41,7 @@ Skills:  Asp.net Core /Asp.net Core Web API/ Blazor/React JS/JS / HTML / CSS/Boo
 ## 🛠️ My Favorite Tools
 
 
-### 💻 Programming Languages
+#### 💻 Programming Languages
 
 <p>
 	<a href="https://github.com/search?q=user%3Athenomaniqbal+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
@@ -56,7 +56,7 @@ Skills:  Asp.net Core /Asp.net Core Web API/ Blazor/React JS/JS / HTML / CSS/Boo
 
 </p>
 
-### 🧰 Frameworks and Libraries
+#### 🧰 Frameworks and Libraries
 
 <p>
 	<a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
@@ -72,7 +72,7 @@ Skills:  Asp.net Core /Asp.net Core Web API/ Blazor/React JS/JS / HTML / CSS/Boo
     	<a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
 </p>
 
-### 🗄️ Databases and cloud hosting
+#### 🗄️ Databases and cloud hosting
 
 <p>
 	<a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
@@ -85,7 +85,7 @@ Skills:  Asp.net Core /Asp.net Core Web API/ Blazor/React JS/JS / HTML / CSS/Boo
     	<a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
 </p>
 
-### 🔧 Software, Technologies and tools
+#### 🔧 Software, Technologies and tools
 
 <p>
 	<a href="#"><img alt="OS-Linux" src="https://img.shields.io/badge/Linux-1793D1.svg?logo=linux&logoColor=white"></a>
@@ -108,7 +108,7 @@ Skills:  Asp.net Core /Asp.net Core Web API/ Blazor/React JS/JS / HTML / CSS/Boo
 </p>
 
 
-#### This Website That I Build
+### This Website That I Build
 - [Blumenit](https://blumenit.com/) 
 - [UtshabResort](https://utsabresort.com/) 
 - [ammerrajjo](https://ammerrajjo.com/)
