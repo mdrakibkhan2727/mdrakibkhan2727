@@ -29,6 +29,12 @@ Skills:  Asp.net Core /Asp.net Core Web API/ Blazor/React JS/JS / HTML / CSS/Boo
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: mdrakibkhan2727@gmail.com 
 
+
+ 
+<p>
+  <img align="left" alt="GIF" src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/code.gif?raw=true" width="100%" />
+</p>
+
 ## 🛠️ My Favorite Tools
 
 
