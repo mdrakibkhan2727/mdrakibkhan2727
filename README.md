@@ -14,6 +14,9 @@
   	<a href="https://github.com/mdrakibkhan2727?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/thenomaniqbal?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 	
 </p>
+
+<hr/>
+
 #### Full-Stack Software Engineer
 
 Hi there 👋, I'm Md Rakib Khan, I'm a Full-Stack Software Engineer focused on backend development. I have 2+ years of experience in Asp.net Core & Asp.net Core Web API. I have created different types of projects such as ERP, Ecommerce, Inventory,Blog etc.. . I'm a passionate, energetic and professional Developer..
