@@ -1,5 +1,11 @@
 ![Full Stack Software Engineer](https://media-exp1.licdn.com/dms/image/C5116AQF_KiQYjwKl4g/profile-displaybackgroundimage-shrink_350_1400/0/1534185867428?e=1651104000&v=beta&t=0MVf-E6QMHDRxwy_1JXhhKGt0yeey56gRirfjRfglSE)
 
+<h1 align="center">
+	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+	Hi, Welcome to my profile!
+	<img src="https://emoji.discord.st/emojis/dc5dc637-3062-4bb8-a984-93823e531596.gif" width="30">
+</h1>
+
 ### Hi there 👋, I'm Md Rakib Khan
 #### Full-Stack Software Engineer
 
