@@ -65,7 +65,7 @@ Skills:  Asp.net Core /Asp.net Core Web API/ Blazor/React JS/JS / HTML / CSS/Boo
 	<a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
     	<a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
     	<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-    
+        <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-000000.svg?logo=microsoftsqlserver&logoColor=white"></a>
 </p>
 
 #### 🔧 Software, Technologies and tools
@@ -75,7 +75,6 @@ Skills:  Asp.net Core /Asp.net Core Web API/ Blazor/React JS/JS / HTML / CSS/Boo
     	<a href="#"><img alt="IDE-Visualstudio" src="https://img.shields.io/badge/Visual%20Studio-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     	<a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-000000.svg?logo=microsoftsqlserver&logoColor=white"></a>
 	<a href="#"><img alt="Gitbash" src="https://img.shields.io/badge/Gitbash-DD1100.svg?logo=github&logoColor=white"></a>
-    	<a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
 	<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 	<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 
