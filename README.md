@@ -26,13 +26,13 @@
 
 Hi there 👋, I'm Md Rakib Khan, I'm a Full-Stack Software Engineer focused on backend development. I have 2+ years of experience in Asp.net Core & Asp.net Core Web API. I have created different types of projects such as ERP, Ecommerce, Inventory,Blog etc.. . I'm a passionate, energetic and professional Developer..
 
-Skills:  Asp.net Core /Asp.net Core Web API/ Blazor/React JS/JS / HTML / CSS/Bootstrap/TAILWIND CSS/JQUERY
+Skills:  Asp.net Core /Asp.net Core Web API/ Blazor/React JS/Node Js/JS / HTML / CSS/Bootstrap/TAILWIND CSS/JQUERY
 
 - 🔭 I’m currently working on Linosa Software, USA.
 - 🌱 I’m currently learning React Js and Node Js 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Development 
-- 📫 How to reach me: mdrakibkhan2727@gmail.com 
+- 📫 How to reach me: mdrakibkhan.office@gmail.com
 
 
  
