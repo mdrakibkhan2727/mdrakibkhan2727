@@ -29,7 +29,7 @@ Hi there 👋, I'm Md Rakib Khan, I'm a Full-Stack Software Engineer focused on 
 Skills:  Asp.net Core /Asp.net Core Web API/ Blazor/React JS/Node Js/JS / HTML / CSS/Bootstrap/TAILWIND CSS/JQUERY
 
 - 🔭 I’m currently working on Linosa Software, USA.
-- 🌱 I’m currently learning React Js and Node Js 
+- 🌱 I’m working on Asp Net Core, Angular Js and React Js
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: mdrakibkhan.office@gmail.com
