@@ -24,7 +24,7 @@
 
 #### Full-Stack Software Engineer
 
-Hi there 👋, I'm Rakib Khan, I'm a Full-Stack Software Engineer focused on backend development. I have 5+ years of experience in Asp.net Core and Angular Js. I have created different types of project such as ERP, Ecommerce, Inventory,HRMS, Blog etc..I'm a passionate, energetic and professional Developer.
+Hi there 👋, My name is Rakib Khan, and I'm a Software Engineer. I have over 5+ years of experience in APS.NET / Angular JS. I enjoy my work and always focus on it. I have worked on several projects, such as e-commerce, Blogs, ERP, etc. Also, I know some other technologies, like React Js, HTML, CSS, Bootstrap, Git, and Github.
 
 Skills:  Asp.net Core /Asp.net Core Web API/ Blazor/React JS/Node Js/JS / HTML / CSS/Bootstrap/TAILWIND CSS/JQUERY
 
