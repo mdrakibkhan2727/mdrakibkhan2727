@@ -24,18 +24,16 @@
 
 #### Full-Stack Software Engineer
 
-Hi there 👋, My name is Rakib Khan, and I'm a Software Engineer. I have over 5+ years of experience in APS.NET / Angular JS. I enjoy my work and always focus on it. I have worked on several projects, such as e-commerce, Blogs, ERP, etc. Also, I know some other technologies, like React Js, HTML, CSS, Bootstrap, Git, and Github.
+Hi there 👋, My name is Rakib Khan, and I'm a Software Engineer. I have over 5+ years of hands-on experience in software development, I specialize in the Microsoft technology stack, including .NET Framework/Core, ASP.NET (MVC, Web API, WebForms), and MS SQL Server. My background spans both back-end and front-end development, enabling me to build scalable, efficient, and user-friendly applications.
 
-Skills:  Asp.net Core /Asp.net Core Web API/ Blazor/React JS/Node Js/JS / HTML / CSS/Bootstrap/TAILWIND CSS/JQUERY
+Skills:  Asp.net Core /Asp.net Core Web API/MSSQL/React JS/Node Js/JS / HTML / CSS/Bootstrap/JQUERY/Angular/Git/GitHub/Bitbucket/JIRA
 
-- 🔭 I’m currently working on Linosa Software, USA.
-- 🌱 I’m working on Asp Net Core, Angular Js and React Js
-- 👯 I’m looking to collaborate on Github 
+- 🔭 I’m currently working on Fujifilm Synapse, USA.
+- 🌱 I’m working on ASP Net Core, Angular, and Angular JS.
+- 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: mdrakibkhan.office@gmail.com
 
-
- 
 
 
 ## 🛠️ My Favorite Tools
@@ -97,13 +95,6 @@ Skills:  Asp.net Core /Asp.net Core Web API/ Blazor/React JS/Node Js/JS / HTML /
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdrakibkhan2727&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mdrakibkhan2727)  
-
-![GitHub metrics](https://metrics.lecoq.io/mdrakibkhan2727)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mdrakibkhan2727)  
-
-![Profile views](https://gpvc.arturio.dev/mdrakibkhan2727)  
 
 <div align="center">
 	<a href="https://git.io/typing-svg">
