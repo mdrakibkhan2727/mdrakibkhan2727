@@ -26,7 +26,7 @@
 
 Hi there 👋, My name is Rakib Khan, and I'm a Software Engineer. I have over 5+ years of hands-on experience in software development, I specialize in the Microsoft technology stack, including .NET Framework/Core, ASP.NET (MVC, Web API, WebForms), and MS SQL Server. My background spans both back-end and front-end development, enabling me to build scalable, efficient, and user-friendly applications.
 
-Skills:  Asp.net Core /Asp.net Core Web API/MSSQL/React JS/Node Js/JS / HTML / CSS/Bootstrap/JQUERY/Angular/Git/GitHub/Bitbucket/JIRA
+Skills:   HTML/CSS/Bootstrap/JQUERY/MSSQL/Asp.net Core /Asp.net Core Web API/React JS/Angular/Angular Js/Git/GitHub/Bitbucket/JIRA
 
 - 🔭 I’m currently working on Fujifilm Synapse, USA.
 - 🌱 I’m working on ASP Net Core, Angular, and Angular JS.
